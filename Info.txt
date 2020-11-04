@@ -1,0 +1,3 @@
+An intelligent watering system developed with Arduino Uno and real time clock module RTC DS3231.
+
+Watering will start automatically using many valves and spray bodies. This project can be developed and associated with smartphone application in order to control watering time.
